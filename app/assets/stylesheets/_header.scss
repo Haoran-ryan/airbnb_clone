@@ -1,0 +1,12 @@
+.nav-container{
+    min-height: 80px;
+}
+
+.logo-link{
+    svg{
+        width: 102px;
+        height: 32px;
+        display: block;
+        color: $airbnb-logo;
+    }
+}
